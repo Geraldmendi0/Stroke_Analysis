@@ -18,14 +18,16 @@ Microsoft Excel
 <img width="865" height="370" alt="image" src="https://github.com/user-attachments/assets/e01f55b2-9a2c-4649-a24e-26e645a71c18" />
 <img width="635" height="396" alt="image" src="https://github.com/user-attachments/assets/27c5ad22-13a5-464c-a099-231bca045fa4" />
 <img width="744" height="383" alt="image" src="https://github.com/user-attachments/assets/d2e0aa31-4e10-416d-b501-f6aeead49732" />
+
+
 # Finding
-Age:
+1. Age:
 The analysis shows that stroke occurrence increases significantly with age. Stroke cases are relatively rare among younger individuals but become more common among individuals aged 50 and above.
-Hypertension:
+2. Hypertension:
 Individuals with hypertension show a much higher proportion of stroke cases compared to those without hypertension. This indicates that high blood pressure is a major contributing factor to stroke occurrence.
-Body Mass Index (BMI):
+3. Body Mass Index (BMI):
 Most stroke cases appear within the BMI range of approximately 20–30, which is also the most common BMI range in the dataset. Extremely high BMI categories show fewer cases due to limited sample sizes rather than lower risk.
-Glucose Levels:
+4. Glucose Levels:
 Higher average glucose levels appear to be associated with increased stroke occurrence, suggesting a relationship between blood sugar levels and stroke risk.
 # Recommendations
 Based on the findings of this analysis, several recommendations can be made:
