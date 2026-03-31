@@ -1,4 +1,4 @@
-<img width="1631" height="85" alt="image" src="https://github.com/user-attachments/assets/88e651a1-6ee3-4182-af54-7ed5895168ac" /><img width="2366" height="85" alt="image" src="https://github.com/user-attachments/assets/04b4e48c-0f12-4366-8031-297e704b7106" /><img width="2161" height="85" alt="image" src="https://github.com/user-attachments/assets/9f118e32-c944-448a-944d-04acccffb546" /># Stroke Analysis
+# Stroke Analysis
 Stroke is a major cause of disability and death worldwide. Early identification of high-risk individuals is crucial for prevention. This project aims to analyse demographic and health factors such as age, hypertension, heart disease, BMI, glucose level, and lifestyle habits to identify patterns associated with stroke occurrence.
 # Problem Statement
 Stroke is a major cause of disability and death worldwide.Early identification of high-risk individuals is crucial for prevention.This project aims to analyse demographic and health factors such as age, hypertension, heart disease, BMI, glucose level, and lifestyle habits to identify patterns associated with stroke occurrence.
@@ -14,10 +14,10 @@ Microsoft Excel
 7. Is stroke more common in Urban or Rural areas?
 8.  Does gender influence stroke risk?
 # Visualization
-<img width="537" height="362" alt="image" src="https://github.com/user-attachments/assets/c4ba2748-7898-4f1e-b3fb-ba536f7fd638" />
-<img width="865" height="370" alt="image" src="https://github.com/user-attachments/assets/e01f55b2-9a2c-4649-a24e-26e645a71c18" />
-<img width="635" height="396" alt="image" src="https://github.com/user-attachments/assets/27c5ad22-13a5-464c-a099-231bca045fa4" />
-<img width="744" height="383" alt="image" src="https://github.com/user-attachments/assets/d2e0aa31-4e10-416d-b501-f6aeead49732" />
+<img width="427" height="362" alt="image" src="https://github.com/user-attachments/assets/c4ba2748-7898-4f1e-b3fb-ba536f7fd638" />
+<img width="427" height="370" alt="image" src="https://github.com/user-attachments/assets/e01f55b2-9a2c-4649-a24e-26e645a71c18" />
+<img width="427" height="396" alt="image" src="https://github.com/user-attachments/assets/27c5ad22-13a5-464c-a099-231bca045fa4" />
+<img width="427" height="383" alt="image" src="https://github.com/user-attachments/assets/d2e0aa31-4e10-416d-b501-f6aeead49732" />
 
 
 # Finding
